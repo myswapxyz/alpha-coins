@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.80a8db24.css",
-    "main.js": "/static/js/main.15c7ed04.js",
+    "main.css": "/static/css/main.536bc6e0.css",
+    "main.js": "/static/js/main.c641c0ac.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
     "static/media/back.png": "/static/media/back.5b042480db9a1391a4ae.png",
+    "static/media/back-mobile.png": "/static/media/back-mobile.508b21dbb62d57adae86.png",
     "static/media/nft-img.png": "/static/media/nft-img.9ff771c72841c0389403.png",
     "static/media/open-invest.png": "/static/media/open-invest.c23c978a596adc52c0d0.png",
     "static/media/braavos-logo.svg": "/static/media/braavos-logo.7b0034c05090fec17d048335e3495485.svg",
-    "static/media/starknet.svg": "/static/media/starknet.66d4aba7f2716e0875f34d6b55ffd8fe.svg",
     "index.html": "/index.html",
+    "static/media/clock.svg": "/static/media/clock.3ee2a352baac9b34f48dbeb4cd51c959.svg",
     "static/media/discord.svg": "/static/media/discord.b668192649ebbae13f9bf7cc1dadef66.svg",
     "static/media/disconneted.svg": "/static/media/disconneted.2ab5174a0ef8147e460ee43c7ad6fe89.svg"
   },
   "entrypoints": [
-    "static/css/main.80a8db24.css",
-    "static/js/main.15c7ed04.js"
+    "static/css/main.536bc6e0.css",
+    "static/js/main.c641c0ac.js"
   ]
 }
