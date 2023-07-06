@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.9a563781.css",
-    "main.js": "/static/js/main.d4cf1512.js",
+    "main.js": "/static/js/main.64cc4f10.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
     "static/media/back.png": "/static/media/back.5b042480db9a1391a4ae.png",
     "static/media/mission-img-2.svg": "/static/media/mission-img-2.23e61f48c22e8f197012a97929727821.svg",
@@ -16,6 +16,6 @@
   },
   "entrypoints": [
     "static/css/main.9a563781.css",
-    "static/js/main.d4cf1512.js"
+    "static/js/main.64cc4f10.js"
   ]
 }
