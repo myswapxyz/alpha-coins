@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a563781.css",
-    "main.js": "/static/js/main.64cc4f10.js",
+    "main.css": "/static/css/main.a8dbeba5.css",
+    "main.js": "/static/js/main.e7d605db.js",
     "static/js/522.7247370f.chunk.js": "/static/js/522.7247370f.chunk.js",
     "static/media/back.png": "/static/media/back.5b042480db9a1391a4ae.png",
-    "static/media/mission-img-2.svg": "/static/media/mission-img-2.23e61f48c22e8f197012a97929727821.svg",
     "static/media/back-mobile.png": "/static/media/back-mobile.508b21dbb62d57adae86.png",
+    "static/media/mission-img-3.png": "/static/media/mission-img-3.3f3cb0c960d36c02d1d6.png",
     "static/media/open-invest.png": "/static/media/open-invest.c23c978a596adc52c0d0.png",
     "static/media/braavos-logo.svg": "/static/media/braavos-logo.7b0034c05090fec17d048335e3495485.svg",
     "index.html": "/index.html",
@@ -15,7 +15,7 @@
     "static/media/disconneted.svg": "/static/media/disconneted.2ab5174a0ef8147e460ee43c7ad6fe89.svg"
   },
   "entrypoints": [
-    "static/css/main.9a563781.css",
-    "static/js/main.64cc4f10.js"
+    "static/css/main.a8dbeba5.css",
+    "static/js/main.e7d605db.js"
   ]
 }
